@@ -1,4 +1,4 @@
-<h2> Opa, eai. Eu sou o Thiago ! 👋</h2>
+<h2> Opa, eai. Eu sou o Thiago !</h2>
 
 <h4>
  💻 Trabalho como front-end
