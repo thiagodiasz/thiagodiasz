@@ -1,7 +1,7 @@
 <h2> Opa, eai. Eu sou o Thiago ! 👋</h2>
 
 <h4>
- 💻Trabalho como front-end
+ 💻 Trabalho como front-end
 <br>
 📚 Graduando em Sistema de Informação
 <br>
@@ -10,8 +10,8 @@
 <hr>
 <div>
   <a href="https://github.com/thiagodiasz">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagodiasz&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodiasz&theme=dark&layout=compact&langs_count=16"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagodiasz&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodiasz&theme=midnight-purple&layout=compact&langs_count=16"/>
   </div>
   <hr>
   <div style="display: inline_block; margin-top:400"><br>
