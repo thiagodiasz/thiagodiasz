@@ -5,7 +5,7 @@
 <br>
 📚 Graduando em Sistema de Informação
 <br>
-🌱 Estudando C#, futuro full stack 
+🌱 Atualmente estudando C# 
 </h4>
 <hr>
 <div>
