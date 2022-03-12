@@ -1,6 +1,7 @@
 <h2> Opa, eai. Eu sou o Thiago ! 👋</h2>
 
-<h4>🐱‍👤 Atualmente trabalho como front-end
+<h4>
+  Trabalho como front-end
 <br>
 📚 Graduando em Sistema de Informação
 <br>
