@@ -1,11 +1,11 @@
-<h2> Opa, eai. Eu sou o Thiago !</h2>
+<h2> pa, eai. e sou o tiago !</h2>
 
 <h4>
- 💻 Trabalho como front-end
+  Trabalho como front-end
 <br>
-📚 Graduando em Sistema de Informação
+ Ggaduando em sstema de iformação
 <br>
-🌱 Atualmente estudando C# 
+ atualmente estudando C# 
 </h4>
 <hr>
 <div>
