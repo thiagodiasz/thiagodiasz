@@ -3,7 +3,7 @@
 <h4>
   aventurando no front-end
 <br>
- graduando em sstema de informação
+ graduando em sistemas de informação
 <br>
  atualmente estudando c# 
 </h4>
