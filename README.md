@@ -1,7 +1,6 @@
 <h1> opa, eai. eu sou o thiago !</h1>
 
-<h2>eu amo a ana júlia! </h2>
-
+<hr>
 <h4>
   aventurando no front-end
 <br>
