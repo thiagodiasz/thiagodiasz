@@ -1,4 +1,6 @@
-<h2> opa, eai. eu sou o thiago !</h2>
+<h1> opa, eai. eu sou o thiago !</h1>
+
+<h2>eu amo a ana júlia! </h2>
 
 <h4>
   aventurando no front-end
