@@ -1,5 +1,4 @@
 <h1> opa, eai. eu sou o thiago !</h1>
-
 <hr>
 <h4>
   aventurando no front-end
