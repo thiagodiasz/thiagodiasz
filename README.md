@@ -1,4 +1,3 @@
-<h1> opa, eai. eu sou o thiago !</h1>
 <h4>
   aventurando no front-end
 <br>
