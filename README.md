@@ -1,10 +1,4 @@
-<h4>
-  aventurando no front-end
-<br>
- graduando em sistemas de informação
-<br>
- atualmente estudando c# 
-</h4>
+
 <hr>
 <div>
   <a href="https://github.com/thiagodiasz">
