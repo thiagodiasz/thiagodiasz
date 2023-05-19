@@ -2,8 +2,8 @@
 <hr>
 <div>
   <a href="https://github.com/thiagodiasz">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagodiasz&theme=midnight-gotham&show_icons=true&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodiasz&theme=midnight-gotham&layout=compact&langs_count=16"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagodiasz&theme=gotham&show_icons=true&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodiasz&theme=gotham&layout=compact&langs_count=16"/>
   </div>
   <hr>
   <div style="display: inline_block; margin-top:400"><br>
