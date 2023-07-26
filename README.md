@@ -15,6 +15,6 @@
     <img align="center" alt="Th-BTSTP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img align="center" alt="Th-CSHARP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
   
-   ![Snake animation](https://github.com/thiagodiasz/thiagodiasz/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
  <hr>
