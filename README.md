@@ -20,7 +20,7 @@
 
 ---
 
-### 📫 Conecte-se comigo
+### Conecte-se comigo
 
 <div>
   <a href="https://www.linkedin.com/in/thiagodiasz/" target="_blank">
@@ -29,10 +29,4 @@
   <a href="mailto:thiagodiasz@outlook.com">
     <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=thiagodiasz&color=006b75&style=flat-square&label=Visitantes" alt="Profile views"/>
 </div>
