@@ -2,7 +2,6 @@
 
 -  4+ anos de experiência com desenvolvimento Full Stack Angular/.Net
 -  Sempre aprendendo e evoluindo nas tecnologias que utilizo
--  Aberto a colaborações e novos desafios
 
 ---
 
